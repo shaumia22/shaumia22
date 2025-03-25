@@ -6,8 +6,8 @@ Recently, I earned my Data Science certification and now channelling my passionn
 
 ### Skills
 * Data Analytics: Data cleaning, exploration and visualization
-* Tools & Technologies: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel
-* Project Management: Agile methodologies, stakeholder communication, risk management
+* Tools & Technologies: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, Excel, Git Bash
+* Project Management: Agile methodologies, stakeholder communication, risk management, documentation, adaptability, organization & planning, Process Improvement
 
 Let's collaborate, discuss data or just connect!
 LinkedIn: https://www.linkedin.com/in/shaumia/
