@@ -10,7 +10,7 @@ Recently, I earned my Data Science certification and now channelling my passion 
 * Project Management: Agile methodologies, stakeholder communication, risk management, documentation, adaptability, organization & planning, Process Improvement
 
 ### 🔭 Ongoing Work
-* I'm currently collaborating on a finance dataset, conducting data analysis and running machine learning techniques.
+* I'm currently collaborating on a finance dataset analysis, project to come!
 
 Let's collaborate, discuss data or just connect!
 * LinkedIn: https://www.linkedin.com/in/shaumia/
