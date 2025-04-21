@@ -1,10 +1,10 @@
 ## Hi! 👋
 
-Hi! I'm Shaumia Ranganathan, a versatile professional with a background in Project Management across diverse industries such as **AdTech**, **Environmental** and **Health & Safety**. With over 10 years of experience managing complex projects, I bringg a strong foundation in leadership, problem-solving and cross-functional collaboration.
+Hi! I'm Shaumia Ranganathan, a versatile professional with a background in business analysis and project management across diverse industries such as **AdTech**, **Environmental** and **Health & Safety**. With over 10 years of experience managing complex projects, I bring a strong foundation in leadership, problem-solving and cross-functional collaboration.
 
 Recently, I earned my Data Science certification and now channelling my passionn for data-driven decision-making into the field of Data Analytics. I thrive on discovering insights and patterns that empower businesses to make smarter, more informed decisions.
 
-### Skills
+### ⚡Skills 
 * Data Analytics: Data cleaning, exploration and visualization
 * Tools & Technologies: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, Excel, Git Bash
 * Project Management: Agile methodologies, stakeholder communication, risk management, documentation, adaptability, organization & planning, Process Improvement
@@ -13,6 +13,8 @@ Let's collaborate, discuss data or just connect!
 LinkedIn: https://www.linkedin.com/in/shaumia/
 GitHub: https://github.com/shaumia22
 
+### 🔭 Ongoing Work
+I'm currently collaborating on a finance dataset, conducting data analysis and running machine learning techniques.
 <!--
 **shaumia22/shaumia22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
