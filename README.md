@@ -2,7 +2,7 @@
 
 Hi! I'm Shaumia Ranganathan, a versatile professional with a background in business analysis and project management across diverse industries such as **AdTech**, **Environmental** and **Health & Safety**. With over 10 years of experience managing complex projects, I bring a strong foundation in leadership, problem-solving and cross-functional collaboration.
 
-Recently, I earned my Data Science certification and now channelling my passionn for data-driven decision-making into the field of Data Analytics. I thrive on discovering insights and patterns that empower businesses to make smarter, more informed decisions.
+Recently, I earned my Data Science certification and now channelling my passion for data-driven decision-making into the field of Data Analytics. I thrive on discovering insights and patterns that empower businesses to make smarter, more informed decisions.
 
 ### ⚡Skills 
 * Data Analytics: Data cleaning, exploration and visualization
