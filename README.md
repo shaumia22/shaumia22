@@ -6,11 +6,15 @@ Recently, I earned my Data Science certification and now channelling my passion 
 
 ### ⚡Skills 
 * Data Analytics: Data cleaning, exploration and visualization
-* Tools & Technologies: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, Excel, Git Bash
-* Project Management: Agile methodologies, stakeholder communication, risk management, documentation, adaptability, organization & planning, Process Improvement
+* Tools & Technologies: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, Excel, Git Bash, MS Visio, JIRA, Confluence, Draw.io, Advanced Roadmaps, Power BI
+* Project Management: Agile Methodologies, Dtakeholder Communication, Risk Management, Documentation, Adaptability, Organization & Planning, Process Improvement
 
-### 🔭 Ongoing Work
-* I'm currently collaborating on a finance dataset analysis, project to come!
+### 🔭 Completed Projects 
+* Power BI: Covid 19 Dataset Analysis
+* Python: Heart Failure Prediction
+* Python: Credit Card Dataset - coming soon
+* Power BI: Bank Data Analysis - coming soon
+* Power BI &S SQL: Sales & Inventory Analysis - coming soon
 
 Let's collaborate, discuss data or just connect!
 * LinkedIn: https://www.linkedin.com/in/shaumia/
