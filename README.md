@@ -11,7 +11,7 @@ Recently, I earned my Data Science certification and now channelling my passion 
 
 ### 🔭 Completed Projects 
 * Power BI: [COVID-19 Case Analysis with Power BI](https://github.com/shaumia22/COVID-19-Case-Analysis-with-Power-BI)
-* Python: Heart Failure Prediction
+* Python: [Heart Failure Prediction](https://github.com/shaumia22/Heart-Failure-Prediction)
 * SQL: Insurance Data - coming soon
 * Python: Credit Card Dataset - coming soon
 * Power BI: Bank Data Analysis - coming soon
