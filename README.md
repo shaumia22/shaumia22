@@ -10,7 +10,7 @@ Recently, I earned my Data Science certification and now channelling my passion 
 * Project Management: Agile Methodologies, Dtakeholder Communication, Risk Management, Documentation, Adaptability, Organization & Planning, Process Improvement
 
 ### 🔭 Completed Projects 
-* Power BI: COVID-19 Case Analysis with Power BI
+* Power BI: [COVID-19 Case Analysis with Power BI] (https://github.com/shaumia22/COVID-19-Case-Analysis-with-Power-BI)
 * Python: Heart Failure Prediction
 * SQL: Insurance Data - coming soon
 * Python: Credit Card Dataset - coming soon
