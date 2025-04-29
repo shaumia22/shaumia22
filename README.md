@@ -17,7 +17,7 @@ Recently, I earned my Data Science certification and now channelling my passion 
 * Power BI: Bank Data Analysis - coming soon
 * Power BI: Sales & Inventory Analysis - coming soon
 
-Let's collaborate, discuss data or just connect!
+Let's collaborate or just connect!
 * LinkedIn: https://www.linkedin.com/in/shaumia/
 * GitHub: https://github.com/shaumia22
 
